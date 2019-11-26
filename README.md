@@ -1,5 +1,5 @@
 # M5
-Programs used in class.
+This repository will hold programs from class and links to learning resources for those interested in learning more about the Python programming language.
 
 Programs for writing Python code:
 <ol>
